@@ -2,7 +2,7 @@
 
 ## Regras
 
-[ ] Cadastro de Usuários
+[x] Cadastro de Usuários
     - Não é permitido cadastrar mais de um usuário com o mesmo email.
     - Não é permitido cadastrar usuário sem email.
 
