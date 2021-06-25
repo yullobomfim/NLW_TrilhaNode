@@ -11,7 +11,7 @@
   v  - Não é permitido cadastrar tag sem nome.
   v  - Não é permitido o cadastro por usuários que não sejam administradores.
 
-[ x ] Cadastro de elogios
+[ x ] Cadastro de Elogios
    v - Não é permitido um usuário cadastrar um elogio para si.
    v - Não é permitido cadastrar elogios para usuários inválidos
    v - O usuário precisa estar autenticado na app
